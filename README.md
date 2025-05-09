@@ -1,2 +1,2 @@
- This repository showcases a growing collection of production-ready notebooks, scripts, and simulation frameworks that tackle common challenges in data science, business analytics, cybersecurity, and econometrics.
+This repository showcases a growing collection of production-ready notebooks, scripts, and simulation frameworks that tackle common challenges in data science, business analytics, cybersecurity, and econometrics.
 The codebase supports both my curricular work at the University of Guanajuato and a series of extracurricular research projects, forming the backbone of a long-term portfolio in quantitative economics and applied programming.
