@@ -8,12 +8,12 @@
   <img src="https://media.giphy.com/media/gh0RRgkTxevtO/giphy.gif" width="180" alt="Hackerman">
 </p>
 
-> I wrangle data, weaponize machine-learning, refactor code on the fly, and outwit firewalls before coffee.
+> I wrangle data, weaponize machine-learning, refactor code on the fly, and outwit firewalls before even breakfast.
 
 ---
 
 ## TL;DR
-This repository is **my public playground**: a living collection of production-ready notebooks, security scripts and econometric war machines. Everything here feeds my work in **econometric analysis, machine-learning pipelines, AI research** and the occasional late-night exploit at the Universidad de Guanajuato.
+This repository is **my public playground**: a living collection of production-ready notebooks, security scripts, and econometric war machines. Most folders showcase coursework from the Universidad de Guanajuato; the rest are weekend passion projects in **econometric analysis, machine-learning pipelines, AI research, and the occasional late-night exploit**.
 
 ---
 
@@ -26,30 +26,13 @@ This repository is **my public playground**: a living collection of production-r
 
 ---
 
-## Greatest Hits
-| Repo | One-liner |
-|------|-----------|
-| **`econometrics/panel-wizard`** | Fixed/Random effects with robust SEs; 1-command deploy. |
-| **`ml/auto-workflow`** | From raw CSV to tuned model to REST API—push and run. |
-| **`cybersec/red-team`** | Pentest toys that keep blue teams awake. |
-| **`latex/ug-templates`** | Academic docs that won’t embarrass your advisor. |
-
----
-
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<USER>&show_icons=true&hide=prs&theme=transparent" alt="stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<USER>&theme=transparent" alt="streak">
-</p>
-
----
-
 ## Ping Me 🔗
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar%20Caldera-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/edgarcaldera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar%20Caldera-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgarcaldera/)
 &nbsp;•&nbsp;
 [![Twitter](https://img.shields.io/badge/@caldera_data-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/caldera_data)
 &nbsp;•&nbsp;
 `edgar.caldera@ugto.mx`
+
 
 ---
 
