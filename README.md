@@ -21,7 +21,6 @@ This repository is **my public playground**: a living collection of production-r
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
@@ -29,16 +28,12 @@ This repository is **my public playground**: a living collection of production-r
 ## Ping Me 🔗
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar%20Caldera-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgarcaldera/)
 &nbsp;•&nbsp;
-[![Twitter](https://img.shields.io/badge/@caldera_data-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/caldera_data)
+[![Instagram](https://img.shields.io/badge/Instagram-e_calderah-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/e_calderah/)
 &nbsp;•&nbsp;
-`edgar.caldera@ugto.mx`
-
+`ei.calderahernandez@ugto.mx`
 
 ---
 
-## License
-MIT — fork it, break it, cite me if it makes you rich.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/1lk1IcVgqPLkA/giphy.gif" width="130" alt="Deal with it">
-</p>
+## License  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
+MIT © 2025 Edgar Israel Caldera Hernández  
