@@ -2,13 +2,13 @@
 <!-- ║ README · Edgar Caldera, MSc? ║ -->
 <!-- ╚══════════════════════════════╝ -->
 
-<h1 align="center">💥 Edgar Caldera — data-science gladiator since ’00 💥</h1>
+<h1 align="center">💥 Edgar Caldera’s unapologetically dope data-science armory — student grind in real time 💥</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/gh0RRgkTxevtO/giphy.gif" width="180" alt="Hackerman">
 </p>
 
-> I bend matrices, torch GPUs, and typeset LaTeX before breakfast.
+> I wrangle data, weaponize machine-learning, refactor code on the fly, and outwit firewalls before coffee.
 
 ---
 
