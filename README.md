@@ -3,7 +3,7 @@
 <!-- ╚══════════════════════════════╝ -->
 
 <h1 align="center">
-   Edgar Caldera’s unapologetically dope data-science armory — student grind in real time 
+   Edgar Caldera’s Quantitative Toolkit for Market Mastery — student grind in real time 
 </h1>
 
 <p align="center">
