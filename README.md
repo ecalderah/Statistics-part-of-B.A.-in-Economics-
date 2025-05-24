@@ -2,11 +2,14 @@
 <!-- ║ README · Edgar Caldera, MSc? ║ -->
 <!-- ╚══════════════════════════════╝ -->
 
-<h1 align="center">💥 Edgar Caldera’s unapologetically dope data-science armory — student grind in real time 💥</h1>
+<h1 align="center">
+   Edgar Caldera’s unapologetically dope data-science armory — student grind in real time 
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/gh0RRgkTxevtO/giphy.gif" width="180" alt="Hackerman">
+  <img src="uni.jpg" width="180" alt="Foto uni" />
 </p>
+
 
 > I wrangle data, weaponize machine-learning, refactor code on the fly, and outwit firewalls before even breakfast.
 
