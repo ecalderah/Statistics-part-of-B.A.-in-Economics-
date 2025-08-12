@@ -1,14 +1,6 @@
 <!-- ╔══════════════════════════════╗ -->
 <!-- ║ README · Edgar Caldera, MSc? ║ -->
 <!-- ╚══════════════════════════════╝ -->
-
-<h1 align="center">
-   Edgar Caldera’s Quantitative Toolkit for Market Mastery — student grind in real time 
-</h1>
-
-
-> Fusing quantitative finance and clean code to unlock hidden opportunities.
-
 ---
 
 ## TL;DR
