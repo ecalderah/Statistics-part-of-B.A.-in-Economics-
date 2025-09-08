@@ -4,8 +4,7 @@
 ---
 
 ## TL;DR
-This repository is **my public playground**: a living collection of production-ready notebooks, security scripts, and econometric war machines. Most folders showcase coursework from the Universidad de Guanajuato; the rest are weekend passion projects in **econometric analysis, machine-learning pipelines, AI research, and the occasional late-night exploit**.
-
+This repository is my public sandbox for selected solutions to statistical problems, financial analysis notebooks, and data-sourcing utilities, developed for coursework and research in economics and quantitative finance.
 ---
 
 > **Development Environment:**  
